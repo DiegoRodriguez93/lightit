@@ -3,7 +3,7 @@
 ### LIVE PREVIEW
 
 ```
-http://lightit.renoca.ml/equipamiento
+http://lightit.renoca.ml/
 ```
 
 ### CLONE PROJECT
