@@ -1,5 +1,11 @@
 # INSTALLATION 
 
+### LIVE PREVIEW
+
+```
+http://lightit.renoca.ml/equipamiento
+```
+
 ### CLONE PROJECT
 
 ```
