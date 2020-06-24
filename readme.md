@@ -1,5 +1,17 @@
-## INSTALATION CLONE http://github.com/diegorodriguez93/lightit
+# INSTALATION 
 
-# GO TO DIR AND NPM INSTALL OR YARN INSTALL
+```
+git clone http://github.com/diegorodriguez93/lightit
+```
 
-# RUN SERVER WITH NPM START OR YARN START
+## GO TO DIR AND NPM INSTALL OR YARN INSTALL
+
+```
+yarn install
+```
+
+## RUN SERVER WITH NPM START OR YARN START
+
+```
+yarn start
+```
