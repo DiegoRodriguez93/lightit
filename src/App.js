@@ -12,7 +12,7 @@ function App(){
          <div className="bg-gray-400 h-screen w-screen fixed">
          <Navbar/>
          <Leftsidebar/>
-         <Suspense fallback={<>Loading...</>}>
+         <Suspense fallback={<>Cargando...</>}>
             <Router>
                   <CategoryList path="/aberturas" ruta={'aberturas'} />
                   <CategoryList path="/equipamiento" ruta={'equipamiento'} />
